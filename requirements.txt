@@ -1,0 +1,6 @@
+# Smart Train 3D Model — Python Dependencies
+# Install with:   pip install -r requirements.txt
+# NOTE: CadQuery may require conda on some platforms.
+#       If pip install fails, see README.md for conda instructions.
+
+cadquery>=2.3.0
