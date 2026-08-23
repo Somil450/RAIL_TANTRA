@@ -14,7 +14,6 @@
 
 > present in output/COMPLETE_TRAIN_V3_OPENROOF.step
 
-![FINAL TRAIN — 3 Views](https://raw.githubusercontent.com/Somil450/smart_train_3d/main/output/FINAL_TRAIN.stl)
 
 
 ---
