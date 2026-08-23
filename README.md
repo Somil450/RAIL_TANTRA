@@ -6,6 +6,11 @@
 ---
 
 ## 📸 Preview
+<img width="1470" height="605" alt="image" src="https://github.com/user-attachments/assets/02c6a729-359e-472d-a50d-48947c595f4f" />
+> present in SMART_TRAIN_FINAL.step
+
+<img width="1190" height="518" alt="image" src="https://github.com/user-attachments/assets/c39c046d-9162-4883-aa4f-ee6fff020535" />
+> present in COMPLETE_TRAIN_V3_OPENROOF.step
 
 ![FINAL TRAIN — 3 Views](https://raw.githubusercontent.com/Somil450/smart_train_3d/main/output/FINAL_TRAIN.stl)
 
